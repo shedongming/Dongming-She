@@ -10,7 +10,7 @@
 ### Education
     2014/08-2020/05 Purdue University, US, Ph.D. Advisor: Freydoon Shahidi
     
-    2005/08-2012/06 Sichuan University, China, Bechelor & Master's degree in Mathematics.
+    2005/08-2012/06 Sichuan University, China, Bachelor & Master's degree in Mathematics.
     
 ### Publications
     "Stability of symmetric cube gamma-factors for GL(2)", arXiv:1911.03428 [math.NT], 2019.
