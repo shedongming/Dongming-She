@@ -1,7 +1,7 @@
 ## Welcome to Dongming She's homepage
 
 ### Personal Information
-    I'm a postdoc at the Morningside Center of Mathematics(MCM), Beijing, China. 
+    I am a postdoc at the Morningside Center of Mathematics(MCM), Beijing, China. 
     My research is on number theory and related topics.
     
 ### Research Interest
@@ -15,7 +15,7 @@
 ### Publications
     "Stability of symmetric cube gamma-factors for GL(2)", arXiv:1911.03428 [math.NT], 2019.
     
-    "Local Langlands correspondence for the twisted exterior and symmetric square epsilon-factors of GL(N)", 
+    "Local Langlands correspondence for the twisted exterior and symmetric square epsilon-factors of GL(N)"
     Ph.D Thesis, arXiv:1910.02525 [math.NT], 2019.
     
     "On the computing of the Artin root number of the elliptic curve E_{d^2}: y^2=x^3-d^2x over Gaussian 
